@@ -2,7 +2,7 @@
 //
 // Created by: Mr. Coxall
 // Created on: Sep 2020
-// This is the Hello, World! program
+// This is the Hello, World! program, in C
 
 #include <stdio.h>
 

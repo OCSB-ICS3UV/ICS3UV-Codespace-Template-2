@@ -1,4 +1,7 @@
-// C# program to print Hello World! 
+// Created by: Mr. Coxall
+// Created on: Sep 2020
+// This is the Hello, World! program, in C#
+
 using System; 
 
 // namespace declaration 
@@ -12,11 +15,9 @@ namespace HelloWorldApp {
             
             // statement 
             // printing Hello World! 
-            Console.WriteLine("Hello World!"); 
-            
-            // To prevent the screen from 
-            // running and closing quickly 
-            Console.ReadKey(); 
+            Console.WriteLine("Hello World!");
+
+            Console.WriteLine("\nDone.");
         } 
     } 
 } 
