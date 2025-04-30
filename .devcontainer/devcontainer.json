@@ -3,5 +3,6 @@
 	"features": {
 		"ghcr.io/devcontainers/features/rust:1": {},
 		"ghcr.io/devcontainers-community/features/deno:1": {}
-	}
+	},
+	"postCreateCommand": "bash ./.devcontainer/startup.sh"
 }
